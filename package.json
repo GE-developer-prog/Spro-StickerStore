@@ -1,0 +1,27 @@
+{
+  "name": "spyro-stickerstore",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "author": {
+    "name": "GE. developer",
+    "url": "https://gedeveloper.netlify.app"
+  },
+  "description": "Spyro StickerStore is a modern, interactive sticker store built with React and Vite, featuring sticker collections, pack details, creator profiles, and customer reviews.",
+  "developer": "GE. developer",
+  "developerDescription": "GE. developer is a self-taught frontend developer from Lagos, Nigeria, focused on building responsive, interactive, and user-friendly web applications with modern design.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.1",
+    "vite": "^5.4.8"
+  }
+}
